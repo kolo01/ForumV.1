@@ -100,7 +100,7 @@ Ce projet vise à etablir les bases pour la realisation du backend d'un forum
     ````sh
         python src\manage.py migrate 
     ```` 
-
+ 
 - > #### On lance notre projet 
     ###
     ````sh  
